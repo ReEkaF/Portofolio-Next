@@ -91,7 +91,7 @@ export const projects = [
     des: "A web-based platform for provide information about the price of rice, teh product of rice, and image identification of rice.",
     img: "/beras.webp",
     iconLists: ["/re.svg", "/python.svg", "/tail.svg"],
-    link: "/https://beras-in.vercel.app/",
+    link: "https://beras-in.vercel.app/",
     type: "Personal Project",
     className:
       "flex items-center justify-between mt-7 mb-3 font-mono rounded-xl ",
@@ -102,7 +102,7 @@ export const projects = [
     des: "A web-based platform for managing school data, such as student data, teacher data, and school activities.",
     img: "/ppl.webp",
     iconLists: ["/laravel.svg", "/tail.svg", "/js.svg", "/mysql.svg"],
-    link: "/https://github.com/ReEkaF/PPL-project",
+    link: "https://github.com/ReEkaF/PPL-project/",
     type: "Personal Project",
     className:
       "flex items-center justify-between mt-7 mb-3 font-mono rounded-xl ",
